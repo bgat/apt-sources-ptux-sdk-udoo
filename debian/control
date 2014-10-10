@@ -1,5 +1,5 @@
 Source: apt-sources-ptux-sdk-udoo
-Section: unknown
+Section: embedded
 Priority: extra
 Maintainer: Bill Gatliff <bgat@billgatliff.com>
 Build-Depends: debhelper (>= 8.0.0)
